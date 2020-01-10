@@ -1,0 +1,3 @@
+customer-svc:
+  host:
+    uri: http://mycustomers.dev.cfdev.sh

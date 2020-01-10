@@ -1,0 +1,4 @@
+applications:
+  name: mycustomers
+  instances: 1
+  path: ./customer-service-test-driven/target/customer-svc-simple-test-0.0.1-SNAPSHOT.jar
